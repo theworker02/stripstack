@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/stripstack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Strip list/stack set operations for shell-friendly data wrangling.",
+  "bin": {
+    "stripstack": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/stripstack.git"
+  },
+  "homepage": "https://theworker02.github.io/stripstack/",
+  "keywords": [
+    "strip",
+    "stack",
+    "list",
+    "cli",
+    "toolkit"
+  ]
+}
